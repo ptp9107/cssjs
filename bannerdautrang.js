@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://unimedia.vn/voucher-moi/lam-dep-voucher/nhu-ngoc-spa-khuyen-mai-combo-cham-soc-da-mat-va-co/' target='_blank'><img src='http://unimedia.vn/wp-content/uploads/2016/07/nhu-ngoc-spa.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://unimedia.vn/voucher-moi/lam-dep-voucher/nhu-ngoc-spa-khuyen-mai-combo-cham-soc-da-mat-va-co/' target='_blank'><img src='http://unimedia.vn/wp-content/uploads/2016/07/nhu-ngoc-spa.jpg' width='500px'/><br/><a href="http://unimedia.vn/voucher/">Nhận Voucher giảm giá miễn phí</a></a>. UNIMEDIA. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
