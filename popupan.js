@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://unimedia.vn/tap-chi-online/';
+	var url_popup = 'http://www.unimedia.vn/voucher/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
